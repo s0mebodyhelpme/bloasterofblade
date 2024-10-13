@@ -1,5 +1,6 @@
 .vscode/
 public/
+static/
 resources/
 *.log
 node_modules/
