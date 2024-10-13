@@ -1,0 +1,7 @@
+.vscode/
+public/
+resources/
+*.log
+node_modules/
+.env
+*.sh
